@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <!-- Fail on security and correctness issues -->
+    <issue id="HardcodedDebugMode" severity="fatal" />
+    <issue id="AllowBackup" severity="warning" />
+    <issue id="TrustAllX509TrustManager" severity="fatal" />
+    <issue id="CleartextTraffic" severity="error" />
+    <issue id="NewApi" severity="error" />
+
+    <!-- Dependency updates are managed via Dependabot -->
+    <issue id="GradleDependency" severity="informational" />
+    <issue id="NewerVersionAvailable" severity="informational" />
+</lint>

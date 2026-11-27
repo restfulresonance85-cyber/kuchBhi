@@ -1,0 +1,11 @@
+# Enterprise module-level code ownership
+# Replace @team-handles with your actual GitHub teams or usernames.
+
+*                       @android-platform-team
+/build-logic/           @android-platform-team
+/gradle/                @android-platform-team
+/.github/               @android-platform-team
+/core/                  @android-core-team
+/feature/home/          @feature-home-team
+/feature/settings/      @feature-settings-team
+/docs/adr/              @android-architects
