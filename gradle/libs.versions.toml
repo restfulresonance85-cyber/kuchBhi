@@ -6,7 +6,7 @@ targetSdk = "35"
 java = "17"
 
 # Core Toolchain
-agp = "8.7.2"
+agp = "9.5.3"
 kotlin = "2.0.21"
 ksp = "2.0.21-1.0.28"
 
