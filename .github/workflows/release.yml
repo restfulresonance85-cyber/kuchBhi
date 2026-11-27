@@ -44,7 +44,7 @@ jobs:
           gradle ":app:bundle${CAPITALIZED}Release"
 
       - name: Upload Release Artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: kuchbhi-release-bundle
           path: app/build/outputs/bundle/**/*.aab
