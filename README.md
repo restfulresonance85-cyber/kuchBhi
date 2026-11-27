@@ -625,6 +625,10 @@ KuchBhi/
 │   └── wrapper/gradle-wrapper.properties
 ├── .editorconfig
 ├── .gitignore
+├── AGENTS.md                           # Canonical AI agent architecture & engineering contract
+├── CLAUDE.md -> AGENTS.md              # Symlink for Claude Code
+├── GEMINI.md -> AGENTS.md              # Symlink for Antigravity / Gemini CLI
+├── agent.md -> AGENTS.md               # Symlink alias
 ├── build.gradle.kts
 ├── settings.gradle.kts
 ├── gradle.properties
