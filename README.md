@@ -211,7 +211,7 @@ KuchBhi/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/kuchBhi.git
+   git clone https://github.com/restfulresonance85-cyber/kuchBhi.git
    cd kuchBhi
    ```
 2. Open the project in **Android Studio** (or generate the local Gradle wrapper scripts if running from CLI):
